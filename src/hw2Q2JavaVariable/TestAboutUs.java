@@ -1,8 +1,12 @@
 package hw2Q2JavaVariable;
 
+
+
 public class TestAboutUs {
 
 	public static void main(String[] args) {
+	
+
 		AboutUs aboutUs1 = new AboutUs(); // Constructor initialized
 		aboutUs1.MyName = "Mashrufa Rahman"; // variables initialized
 		aboutUs1.myAge = 40;
@@ -27,8 +31,8 @@ public class TestAboutUs {
 		aboutUs2.myHeight = 6.3f;
 		aboutUs2.myGrade = 2.333333333333;
 		aboutUs2.usCitizen = true;
-		aboutUs2.aboutUs(); // method initialized
+		aboutUs2.aboutUs(); // method initialized */
 
-	}
+	} 
 
 }
