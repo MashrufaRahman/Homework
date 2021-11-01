@@ -10,49 +10,57 @@ public class Month {
 		String MonthOfBirth = "September";
 
 		switch (MonthOfBirth) {
-		
+
 		case "October":
-			System.out.println("This is your months of Birth:"+MonthOfBirth);
+			System.out.println("This is your months of Birth:" + MonthOfBirth);
 			break;
 
 		case "November":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
 
 		case "December":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
+			
 		case "January":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
+			break;
+			
 		case "February":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
+			
 		case "March":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
+			
 		case "April":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
+			
 		case "May":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
 
 		case "June":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
+			
 		case "July":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
+			
 		case "August":
-			System.out.println("This is your months of birth"+MonthOfBirth);
+			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
 
 		case "September":
-			System.out.println("This is your months of Birth:" +MonthOfBirth );
+			System.out.println("This is your months of Birth:" + MonthOfBirth);
 			break;
 
 		default:
-			System.out.println("Finally execute, your month of Birth");
+			System.out.println("Finally execute, your month of Birth"+MonthOfBirth);
 			break;
 		}
 
