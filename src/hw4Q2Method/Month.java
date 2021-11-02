@@ -22,23 +22,23 @@ public class Month {
 		case "December":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "January":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "February":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "March":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "April":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "May":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
@@ -46,11 +46,11 @@ public class Month {
 		case "June":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "July":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
-			
+
 		case "August":
 			System.out.println("This is your months of birth" + MonthOfBirth);
 			break;
@@ -60,7 +60,7 @@ public class Month {
 			break;
 
 		default:
-			System.out.println("Finally execute, your month of Birth"+MonthOfBirth);
+			System.out.println("Finally execute, your month of Birth" + MonthOfBirth);
 			break;
 		}
 
