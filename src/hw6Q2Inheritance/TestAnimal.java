@@ -1,9 +1,5 @@
 package hw6Q2Inheritance;
 
-/*
- * Now extends BullDog, Cobra, and Robin class to their parents class and shows their hierarchy till Animal Class, for example: bulldog -- dog -- mammal --Animal, Cobra -- snake--reptile--Animal, Robin -- Bird -- Animal etc. We know, An object Can call other methods if the class is extended, if yes, show all the possible calls. Use Java comments to show single inheritance, multiple inheritance, Hierarchical inheritance by example form the above. Also, show by java comments who is Parent class and who is child class for at least one class. Organize the code. Push the code in Github. Paste your github link below.
- */
-
 public class TestAnimal {
 	public static void main(String[] args) {
 		System.out.println("******calling the animal class*******");
