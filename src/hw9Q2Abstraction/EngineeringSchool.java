@@ -1,6 +1,6 @@
 package hw9Q2Abstraction;
 
-public abstract class EngineeringSchool extends NYUniversity{
+public abstract class EngineeringSchool extends NYUniversity {
 
 	// Non abstract method
 	public void mechanicalLab() {

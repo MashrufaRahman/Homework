@@ -13,7 +13,7 @@ public class RockefellerUniversity extends EngineeringSchool implements Aeronaut
 	}
 
 	// Default constructor
-	public RockefellerUniversity() { 
+	public RockefellerUniversity() {
 
 	}
 
@@ -25,14 +25,13 @@ public class RockefellerUniversity extends EngineeringSchool implements Aeronaut
 	@Override
 	public void computerLab() {
 		System.out.println("ComputerLab method From EngineeringSchool abstract class");
-		
+
 	}
 
 	@Override
 	public void cafeteria() {
 		// TODO Auto-generated method stub
-		
-	}
 
+	}
 
 }

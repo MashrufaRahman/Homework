@@ -1,6 +1,6 @@
 package hw9Q2Abstraction;
 
-public abstract class NursingSchool extends RockefellerUniversity{
+public abstract class NursingSchool extends RockefellerUniversity {
 
 	// Non abstract method
 	public void hygiene() {
@@ -12,6 +12,6 @@ public abstract class NursingSchool extends RockefellerUniversity{
 
 	// Constructor created
 	public NursingSchool() {
- 
+
 	}
 }

@@ -4,7 +4,7 @@ public class TestInstitute {
 
 	public static void main(String[] args) {
 		ColumbiaUniversity columbiaUniversity = new ColumbiaUniversity();
-		
+
 		columbiaUniversity.biology();
 		columbiaUniversity.commonRoom();
 		columbiaUniversity.laboratory();
@@ -20,11 +20,10 @@ public class TestInstitute {
 		columbiaUniversity.teacher();
 		columbiaUniversity.biochemistryLab();
 		columbiaUniversity.caring();
-		
+
 		System.out.println("***********************");
-		
-		University university = new ColumbiaUniversity()
-;
+
+		University university = new ColumbiaUniversity();
 		university.classSize();
 		university.playGround();
 		university.teacher();
@@ -38,9 +37,9 @@ public class TestInstitute {
 		university.cateteria();
 		university.morque();
 		University.pharmacy();// I have call the static method from Hospital Interface
-		
+
 		System.out.println("***********************");
-		
+
 		MedicalSchool medicalSchool = new ColumbiaUniversity();
 		medicalSchool.anatomyLab();
 		medicalSchool.biochemistryLab();
@@ -55,12 +54,6 @@ public class TestInstitute {
 		medicalSchool.physics();
 		medicalSchool.aeronauticalInfo();
 		medicalSchool.cafeteria();
-		
-		
-		
-		
-		
-		
 
 	}
 
