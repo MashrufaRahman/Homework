@@ -1,7 +1,4 @@
-package hw1Q2JabaBasic;
-
-import hw10Q2Polymorphism.Nices;
-import hw10Q2Polymorphism.Sister;
+package hw10Q2Polymorphism;
 
 public class TestFamily {
 

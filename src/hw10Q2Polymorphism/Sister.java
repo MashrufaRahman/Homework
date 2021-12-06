@@ -44,8 +44,8 @@ public class Sister {
 		return total4;
 	}
 	/*
-	 * Tell me what is the Method overloading by multiple line comments. Ans - same
-	 * method name but different type of parameter or different
+	 * Tell me what is the Method overloading by multiple line comments. 
+	 * * Answer- same method name but different type of parameter or different
 	 * 
 	 */
 
