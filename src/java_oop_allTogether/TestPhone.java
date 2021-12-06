@@ -3,19 +3,21 @@ package java_oop_allTogether;
 public class TestPhone {
 
 	public static void main(String[] args) {
-		
+
 		Iphone1 iphone1 = new Iphone1();
 		iphone1.setprice(750);
 		iphone1.setInfo("2000");
 		iphone1.setgender('F');
 		iphone1.setmadeInUSA(false);
-		
-		System.out.println("The price was: "+ iphone1.getprice()+"\nI bought this phone in:"+ iphone1.getInfo()+"\nMy gender:"+ iphone1.getgender()+ "\nthis phone madeInUSA:"+ iphone1.getmadeInUSA());
-		
+
+		System.out.println("The price was: " + iphone1.getprice() + "\nI bought this phone in:" + iphone1.getInfo()
+				+ "\nMy gender:" + iphone1.getgender() + "\nthis phone madeInUSA:" + iphone1.getmadeInUSA());
+
 		Iphone1 p01 = new Iphone1();
 		p01.regularClassInfo();
 
-		System.out.println("\nThe regular class can create an object where as interface and abstract class can't create object.Regular class declared only variable no method. In regular class method only implemented not declared. In the interface method only declared and in the abstract class method declared and implemented.\n\t Regular class can inherited only one abstract or regular class using extends keyword. Interface can inharit more then one interface by extends keywords. In a regular class we can inharit more then one interface using implements keyword. ");
+		System.out.println(
+				"\nThe regular class can create an object where as interface and abstract class can't create object.Regular class declared only variable no method. In regular class method only implemented not declared. In the interface method only declared and in the abstract class method declared and implemented.\n\t Regular class can inherited only one abstract or regular class using extends keyword. Interface can inharit more then one interface by extends keywords. In a regular class we can inharit more then one interface using implements keyword. ");
 
 		// an abstract class can't be instantiated, it needs the help of a concrete
 		// class, here Iphone1 is a concrete class

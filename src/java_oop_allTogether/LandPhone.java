@@ -1,5 +1,5 @@
 package java_oop_allTogether;
 
-public class LandPhone{
+public class LandPhone {
 
 }
