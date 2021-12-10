@@ -32,6 +32,7 @@ public class TestPhone {
 		phone.call();
 		phone.message();
 		phone.camera();
+		phone.printInfo();
 
 		System.out.println(
 				"\n Phone is a Interface class and it can't instantiated by itself here is class: Pager, Wakitaki ");
